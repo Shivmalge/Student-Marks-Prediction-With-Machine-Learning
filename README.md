@@ -22,6 +22,7 @@
 
 ![image](https://user-images.githubusercontent.com/104545490/168493107-37ffe968-a71e-4db1-ba6f-7f43921b5d3d.png)
 
+### So the time_studied column is more correlated with the marks column than the other column.
 
 ## 4. The I splitted the dataset into training and testing.
 
@@ -40,4 +41,4 @@
 
 ## Summary:
 
-### So this is hoe I have solved the problem of student marks prediction with machine learning. It is a good regression problem as it easy to solve and understand.
+### So this is how I have solved the problem of student marks prediction with machine learning. It is a good regression problem as it easy to solve and understand.
